@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Hi! I'm <a href="https://mathletedev.github.io">Neal Wang</a> 🐬 !</h1>
+	<h1>Hi! I'm <a href="https://neowsl.github.io">Neal Wang</a> 🐬 !</h1>
     <div><code>// TODO: insert inspirational quote</code></div>
 	<br />
 	<a href="https://gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=flat&logo=gnu" /></a>
@@ -7,7 +7,7 @@
 	<a href="https://hyprland.org"><img src="https://img.shields.io/badge/WC-Hyprland-89dceb?style=flat&logo=elixir" /></a>
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=flat&logo=neovim" /></a>
 	<br />
-	<a href="https://github.com/mathletedev"><img src="https://img.shields.io/github/stars/mathletedev?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
+	<a href="https://github.com/neowsl"><img src="https://img.shields.io/github/stars/neowsl?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 	<a href="mailto:nealwang.sh@pm.me"><img src="https://img.shields.io/badge/EMAIL-nealwang.sh@pm.me-b4befe?style=flat&logo=protonmail" /></a>
 	<a href="https://linkedin.com/in/neal-wang-a67717234"><img src="https://img.shields.io/badge/LINKEDIN-Neal_Wang-74c7ec?style=flat&logo=linkedin" /></a>
 	<br />
@@ -16,7 +16,7 @@
 	<a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-74c7ec?style=flat&logo=typescript" /></a>
 	<a href="https://go.dev"><img src="https://img.shields.io/badge/Go-94e2d5?style=flat&logo=go" /></a>
 	<br />
-	<a href="https://youtube.com/@mathletedev"><img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=flat&logo=youtube&label=YOUTUBE&color=eba0ac" /></a>
+	<a href="https://youtube.com/@neowsl"><img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=flat&logo=youtube&label=YOUTUBE&color=eba0ac" /></a>
 	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
 </div>
 
