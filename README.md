@@ -11,10 +11,11 @@
 	<a href="mailto:nealwang.sh@pm.me"><img src="https://img.shields.io/badge/EMAIL-nealwang.sh@pm.me-b4befe?style=flat&logo=protonmail" /></a>
 	<a href="https://linkedin.com/in/neal-wang-a67717234"><img src="https://img.shields.io/badge/LINKEDIN-Neal_Wang-74c7ec?style=flat&logo=linkedin" /></a>
 	<br />
-	<a href="https://rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
-	<a href="https://haskell.org"><img src="https://img.shields.io/badge/Haskell-b4befe?style=flat&logo=haskell" /></a>
-	<a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-74c7ec?style=flat&logo=typescript" /></a>
+	<a href="https://haskell.org"><img src="https://img.shields.io/badge/LANG-Haskell-b4befe?style=flat&logo=haskell" /></a>
+	<a href="https://rust-lang.org"><img src="https://img.shields.io/badge/Rust-f2cdcd?style=flat&logo=rust" /></a>
 	<a href="https://go.dev"><img src="https://img.shields.io/badge/Go-94e2d5?style=flat&logo=go" /></a>
+	<a href="https://cplusplus.com"><img src="https://img.shields.io/badge/C/C++-74c7ec?style=flat&logo=c%2B%2B" /></a>
+	<a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-74c7ec?style=flat&logo=typescript" /></a>
 	<br />
 	<a href="https://youtube.com/@neowsl"><img src="https://img.shields.io/youtube/channel/subscribers/UCOaIT1nP-FhOFlhz2_fzJ1Q?style=flat&logo=youtube&label=YOUTUBE&color=eba0ac" /></a>
 	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
