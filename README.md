@@ -28,8 +28,8 @@
 **Full-Stack DevSecBizAIOps Ninja Unicorn 🦄 • Cloud-Native Zero-Trust Thought Leader 🧠 • Friday-Afternoon-Force-Push-to-Prod Evangelist 🚨**
 
 - Favourite Languages: Haskell / TailwindCSS / Jira tickets
-- Favourite Vim Command: `:q!`
-- Favourite Joke: ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:10
+- Favourite Vim Command: `:norm`
+- Favourite Song: ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 9:12
 - Favourite Regex: `^https?:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)(dQw4w9WgXcQ|dQw4w9WgXcQ(&|\?).*|dQw4w9WgXcQ\/.*|.*[&?]v=dQw4w9WgXcQ(&.*)?|.*v%3DdQw4w9WgXcQ.*|.*%2Fwatch%3Fv%3DdQw4w9WgXcQ.*|.*embed\/dQw4w9WgXcQ.*|.*[&?]list=.*dQw4w9WgXcQ.*|.*redirect=.*dQw4w9WgXcQ.*)$`
 
 ## Work Experience
