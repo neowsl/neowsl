@@ -1,4 +1,4 @@
-# 🚨 NOTICE: I am now self-hosting my Git forge [here](https://git.nealwang.dev) 🚨
+# 🚨 NOTICE: This is a mirror of my Git forge at [git.nealwang.dev](https://git.nealwang.dev) 🚨
 
 ---
 
