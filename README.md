@@ -1,4 +1,4 @@
-# 🚨 NOTICE: I have migrated my account to [Codeberg](https://codeberg.org/nealwang) 🚨
+# 🚨 NOTICE: I am now self-hosting my Git forge [here](https://git.nealwang.dev) 🚨
 
 ---
 
